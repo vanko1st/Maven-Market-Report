@@ -41,7 +41,7 @@ Products, Customers, Stores and Calendar tables have a one-to-many relationship 
 ## Visualization:
 
 The report comprises 4 pages:
-1. Dashboard
+1. Main
 2. Customer
 3. Product
 4. Stores
@@ -60,3 +60,21 @@ Features:
 
 ## Customers Information Page
 ![](customer.png)
+
+Features:
+- In the top left is a button to clear all the filters applied to this page.
+- Under that button, there are buttons to navigate through pages.
+- There's a time filter above the Top Customer section. Use it to pick the timeframe and see who the top customer was during that period.
+
+## Product Infromation Page
+![](product.png)
+
+Features:
+- On the left side of the page there are the navigation buttons that are in every page of the report.
+- Right-clicking and clicking on drill through Product on a product from the top 15 list takes users to this page for detailed product information. It's a quick way to see key metrics of the product you chose.
+- The Price Adjustment feature enables users to slide prices in 10% increments, from -100% to +100%. It offers a swift and flexible method for adjusting product prices, providing insights into expected profits with each change.
+- There is a Product Metrics Selection list that lets you click and choose from Total Orders, Total Profit, Total Revenue, and Total Returns for the selected product. It's a quick way to view key performance metrics.
+
+##Stores Information Page
+
+
