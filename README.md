@@ -48,6 +48,7 @@ The report comprises 4 pages:
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/c63c115c-8edf-4899-ac4b-9a4dd27cf513/ReportSection?experience=power-bi).
 ---
+## Main Page
 ![](mainpagenew.png)
 
 Features:
@@ -56,3 +57,6 @@ Features:
 - There is a slicer under the line chart that you can customize to see the profits trending for a period you would like.
 - On the bar chart, there is a feature that, when you hover over a certain bar, you will see a custom tooltip.
 - In the top 15 product list, you can right-click on a product name, go to the drill-through and click on Product. This will navigate you to the product page, where you can gather key insights about that product.
+
+## Customers Information Page
+![](customer.png)
