@@ -48,7 +48,7 @@ The report comprises 4 pages:
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/c63c115c-8edf-4899-ac4b-9a4dd27cf513/ReportSection?experience=power-bi).
 ---
-![](mainpage.png)
+![]()
 
 Features:
 - In the top left is a button to clear all the filters applied to this page
