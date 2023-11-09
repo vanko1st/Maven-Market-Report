@@ -51,7 +51,8 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 ![]()
 
 Features:
-- In the top left is a button to clear all the filters applied to this page
-- Under that button there is buttons to navigate through pages
-- There is a slicer under the line chart that you can custumize to see the profits trending for a period you would like
-- On the bar chart there is a feature that when you hover over a certian bar you will see key insights about the 
+- In the top left is a button to clear all the filters applied to this page.
+- Under that button, there are buttons to navigate through pages.
+- There is a slicer under the line chart that you can customize to see the profits trending for a period you would like.
+- On the bar chart, there is a feature that, when you hover over a certain bar, you will see a custom tooltip.
+- In the top 15 product list, you can right-click on a product name, go to the drill-through and click on Product. This will navigate you to the product page, where you can gather key insights about that product.
