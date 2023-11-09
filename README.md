@@ -50,3 +50,8 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 ---
 ![](mainpage.png)
 
+Features:
+- In the top left is a button to clear all the filters applied to this page
+- Under that button there is buttons to navigate through pages
+- There is a slicer under the line chart that you can custumize to see the profits trending for a period you would like
+- On the bar chart there is a feature that when you hover over a certian bar you will see key insights about the 
