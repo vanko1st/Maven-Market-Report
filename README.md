@@ -76,7 +76,7 @@ Features:
 - There is a Product Metrics Selection list that lets you click and choose from Total Orders, Total Profit, Total Revenue, and Total Returns for the selected product. It's a quick way to view key performance metrics.
 
 ## Stores Information Page
-![](stores.png)
+![](storesloc.png)
 
 Features:
 - In the top left is a button to clear all the filters applied to this page.
