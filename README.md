@@ -41,10 +41,10 @@ Products, Customers, Stores and Calendar tables have a one-to-many relationship 
 ## Visualization:
 
 The report comprises 4 pages:
-1. Main
-2. Customer
-3. Product
-4. Stores
+1. Main 
+2. Customers Information 
+3. Product Information 
+4. Stores Information 
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/c63c115c-8edf-4899-ac4b-9a4dd27cf513/ReportSection?experience=power-bi).
 ---
