@@ -15,3 +15,38 @@ Problem statement:
 4. Who is the best customer based on revenue?
 5. From which region are the stores generating the most revenue?
 6. What is the best product based on profit?
+
+## Skills demonstrated:
+
+The following Power BI features were incorporated:
+
+- Bookmarking
+- DAX
+- Quick Measures
+- Page Navigation
+- Modelling 
+- Filters
+- Tooltips
+- Buttons
+- Parameters
+
+## Modelling:
+![](MMR_diagram.png)
+
+This schema organizes retail data, with Products, Customers, Stores and Calendar as primary entities.
+Transactions Data and Return Data tables connect to these entities through foreign keys, establishing relationships for tracking product transactions and returns.
+
+Products, Customers, Stores and Calendar tables have a one-to-many relationship with both Transactions Data and Return Data tables.
+
+##Visualization:
+
+The report comprises 4 pages:
+1. Dashboard
+2. Customer
+3. Product
+4. Stores
+
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/c63c115c-8edf-4899-ac4b-9a4dd27cf513/ReportSection?experience=power-bi).
+---
+![](mainpage.png)
+
